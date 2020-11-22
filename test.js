@@ -1,3 +1,3 @@
 const a = require("fs");
 const path = reqire("path");
-const diff = null;
+const diff = "1";
