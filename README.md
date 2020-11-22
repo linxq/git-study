@@ -26,4 +26,4 @@ git status <-s/--short> //状态预览
 
 
 #### 文件对比
-git diff <--staged> // 文件工作区的改动 : --staged/--cached对比暂存区与最后一次提交的变化。
+git diff <--staged> // 只显示未暂存的变动 : --staged/--cached对比暂存区与最后一次提交的变化。
