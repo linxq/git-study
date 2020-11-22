@@ -1,2 +1,2 @@
 const a = require("fs");
-name;
+const path = require("path");

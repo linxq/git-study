@@ -17,3 +17,9 @@ git config --list //查看项目配置列表
 
 git init //初始化仓库
 git clone <repos> //克隆现有仓库
+git add <file/folder> //添文件目录
+git status <-s/--short> //状态预览
+
+#### .gitignore 文件
+
+[各种语言的.gitignore模版](https://github.com/github/gitignore)
