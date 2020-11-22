@@ -23,3 +23,7 @@ git status <-s/--short> //状态预览
 #### .gitignore 文件
 
 [各种语言的.gitignore模版](https://github.com/github/gitignore)
+
+
+#### 文件对比
+git diff <--staged> // 文件工作区的改动 : --staged/--cached对比暂存区与最后一次提交的变化。
